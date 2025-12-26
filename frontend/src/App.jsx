@@ -1,4 +1,3 @@
-App.jsx
 import { useState, useRef } from "react";
 import ParticlesBg from "particles-bg";
 
